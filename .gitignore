@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Datos grandes
+data/raw/*.csv
+data/processed/*.csv
+*.db
+
+# Configuraciones locales
+.vscode/
+.idea/
+
+# Notebooks sin limpiar (opcional)
+.ipynb_checkpoints/
