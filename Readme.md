@@ -8,7 +8,7 @@ Si eres fan del surf y juegas al **Fantasy de la WSL**, sabrás que elegir el eq
 
 Este programa te quita el dolor de cabeza. Analiza datos reales (resultados históricos, características de la ola, estado de forma) y te dice **exactamente qué 12 surfistas elegir** para maximizar tus puntos.
 
-No es magia, es **datos + optimización**. Y sí, puedes llamarlo "IA" si quedar mejor con tus amigos.
+No es magia, es **datos + optimización**. 
 
 # ¿Cómo funciona por dentro?
 
